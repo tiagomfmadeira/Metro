@@ -1,2 +1,2 @@
-# PCOO19
-Metro - A concurrent object-oriented programming project.
+# Metro
+A concurrent object-oriented programming project.
